@@ -10,7 +10,7 @@
 
 # Tecnologias utilizadas
 ## Back end
-- Maven - Gerente de Dependência para garantir que todas as bibliotecas necessarias estajam no projeto.
+- Maven - Gerente de Dependência para garantir que todas as bibliotecas necessarias estejam no projeto.
 
 - Spring Boot - Ferramenta opinativa para facilitar e agilisar os processos do desenvolvimento e conecção com o banco.
 
